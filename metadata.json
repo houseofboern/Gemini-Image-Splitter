@@ -1,0 +1,5 @@
+{
+  "name": "Gemini GridSplitter",
+  "description": "Maximize cost efficiency by generating multiple image variations in a single request grid and automatically splitting them into individual high-resolution assets.",
+  "requestFramePermissions": []
+}
